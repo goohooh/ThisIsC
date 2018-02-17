@@ -1,0 +1,8 @@
+# build files
+build
+*.layout
+
+# other
+*.bmarks
+*.cscope_file_list
+*.depend
